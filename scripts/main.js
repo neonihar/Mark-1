@@ -1,4 +1,4 @@
-/*
+
 const myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
 
@@ -19,9 +19,6 @@ document.querySelector('html').onclick = function() {
     alert('Oops! You clicked the html element');
 }
 
-*/
-
-/*
 
 let myImage = document.querySelector('img');
 
